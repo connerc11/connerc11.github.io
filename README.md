@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Code Refactor Starter Code
 
 * In this project, I Refractored starter code in order to make the website more accessible and easier to comprehend.
@@ -27,3 +28,6 @@
 
 
 
+=======
+# Run Buddy Inc.
+>>>>>>> develop
